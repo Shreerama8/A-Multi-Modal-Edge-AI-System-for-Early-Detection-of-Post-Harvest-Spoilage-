@@ -3,7 +3,7 @@
 ### A Multi-Modal Edge-AI System for Early Post-Harvest Spoilage Detection
 
 <p align="center">
-  <img src="images/cover.jpg" width="800">
+  <img src="images/coverpage_r.png.jpg" width="800">
 <
 
 ## 📌 Overview
